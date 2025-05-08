@@ -29,4 +29,4 @@ Website ini memberikan pengalaman digital yang nyaman bagi pelanggan tanpa harus
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/beans-and-bites.git
+   [git clone https://github.com/tipazyee/beans-and-bites.git](https://github.com/tipazyee/Beans-Bites_latifaazzahra_122140105)
